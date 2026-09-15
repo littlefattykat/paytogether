@@ -1,0 +1,19 @@
+{
+  "name": "TripSplit Pro",
+  "short_name": "TripSplit",
+  "description": "Private, offline-friendly trip expense splitting.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#09090b",
+  "theme_color": "#09090b",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
